@@ -1,0 +1,918 @@
+# Wp App Builder.
+# Copyright (C) 2021
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <wpappbuilder@gmail.com>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp App Builder 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-10 07:32+0800\n"
+"Last-Translator: FULL NAME <wpappbuilder@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: mobile-app-editor.php:80
+#, php-format
+msgid "Hey %1$s"
+msgstr ""
+
+#: mobile-app-editor.php:81
+#, php-format
+msgid ""
+"never miss an important update - opt-in to our security and feature updates "
+"notifications, and non-sensitive diagnostic tracking with %5$s."
+msgstr ""
+
+#: admin/class-wprne-admin.php:136 admin/class-wprne-admin.php:186
+msgid "Mobile App Editor"
+msgstr ""
+
+#: admin/class-wprne-admin.php:187
+msgid "Apps"
+msgstr ""
+
+#: admin/class-wprne-admin.php:188
+msgid "New App"
+msgstr ""
+
+#: admin/class-wprne-admin.php:189
+msgid "Edit app"
+msgstr ""
+
+#: admin/class-wprne-admin.php:190
+msgid "Delete app"
+msgstr ""
+
+#: admin/class-wprne-admin.php:191
+msgid "Create new app using this template"
+msgstr ""
+
+#: admin/class-wprne-admin.php:192
+msgid "Create New App"
+msgstr ""
+
+#: admin/class-wprne-admin.php:193 admin/class-wprne-admin.php:302
+msgid "App name"
+msgstr ""
+
+#: admin/class-wprne-admin.php:194
+msgid "Are you sure to delete"
+msgstr ""
+
+#: admin/class-wprne-admin.php:195
+msgid "Something went wrong trying to create new app\""
+msgstr ""
+
+#: admin/class-wprne-admin.php:196
+msgid "Title"
+msgstr ""
+
+#: admin/class-wprne-admin.php:197
+msgid "Button Type"
+msgstr ""
+
+#: admin/class-wprne-admin.php:198
+msgid "Font"
+msgstr ""
+
+#: admin/class-wprne-admin.php:199
+msgid "Icon"
+msgstr ""
+
+#: admin/class-wprne-admin.php:200
+msgid "Font Size"
+msgstr ""
+
+#: admin/class-wprne-admin.php:201
+msgid "Font Color"
+msgstr ""
+
+#: admin/class-wprne-admin.php:202
+msgid "Icon Size"
+msgstr ""
+
+#: admin/class-wprne-admin.php:203
+msgid "Icon Color"
+msgstr ""
+
+#: admin/class-wprne-admin.php:204
+msgid "On Press Action"
+msgstr ""
+
+#: admin/class-wprne-admin.php:205
+msgid "Autoplay"
+msgstr ""
+
+#: admin/class-wprne-admin.php:206
+msgid "Autoplay always disabled in builder mode"
+msgstr ""
+
+#: admin/class-wprne-admin.php:207
+msgid "Dot"
+msgstr ""
+
+#: admin/class-wprne-admin.php:208
+msgid "Dot always enabled in builder mode"
+msgstr ""
+
+#: admin/class-wprne-admin.php:209
+msgid "Enable"
+msgstr ""
+
+#: admin/class-wprne-admin.php:210
+msgid "Delay (second)"
+msgstr ""
+
+#: admin/class-wprne-admin.php:211
+msgid "Active Color"
+msgstr ""
+
+#: admin/class-wprne-admin.php:212
+msgid "Product Preview"
+msgstr ""
+
+#: admin/class-wprne-admin.php:213
+msgid "Add to Cart"
+msgstr ""
+
+#: admin/class-wprne-admin.php:214
+msgid "Direction"
+msgstr ""
+
+#: admin/class-wprne-admin.php:215
+msgid "Justify Content"
+msgstr ""
+
+#: admin/class-wprne-admin.php:216
+msgid "Align items along the main axis of their container"
+msgstr ""
+
+#: admin/class-wprne-admin.php:217
+msgid "Align Items"
+msgstr ""
+
+#: admin/class-wprne-admin.php:218
+msgid "Align items along the cross axis of their container"
+msgstr ""
+
+#: admin/class-wprne-admin.php:219
+msgid "Scrollable"
+msgstr ""
+
+#: admin/class-wprne-admin.php:220
+msgid "Item Direction"
+msgstr ""
+
+#: admin/class-wprne-admin.php:221
+msgid "Show Scroll"
+msgstr ""
+
+#: admin/class-wprne-admin.php:222
+msgid "Number of Column"
+msgstr ""
+
+#: admin/class-wprne-admin.php:223
+msgid "Post Type"
+msgstr ""
+
+#: admin/class-wprne-admin.php:224
+msgid "Posts Count"
+msgstr ""
+
+#: admin/class-wprne-admin.php:225
+msgid "Category"
+msgstr ""
+
+#: admin/class-wprne-admin.php:226
+msgid "Order"
+msgstr ""
+
+#: admin/class-wprne-admin.php:227
+msgid "Order By"
+msgstr ""
+
+#: admin/class-wprne-admin.php:228
+msgid "Keyword"
+msgstr ""
+
+#: admin/class-wprne-admin.php:229
+msgid "Post Query"
+msgstr ""
+
+#: admin/class-wprne-admin.php:230
+msgid "Change Post Query"
+msgstr ""
+
+#: admin/class-wprne-admin.php:231
+msgid "Best Seller"
+msgstr ""
+
+#: admin/class-wprne-admin.php:232
+msgid "Featured"
+msgstr ""
+
+#: admin/class-wprne-admin.php:233
+msgid "On Sale"
+msgstr ""
+
+#: admin/class-wprne-admin.php:234
+msgid "Change Product Query"
+msgstr ""
+
+#: admin/class-wprne-admin.php:235
+msgid "Source"
+msgstr ""
+
+#: admin/class-wprne-admin.php:236
+msgid "Post Content"
+msgstr ""
+
+#: admin/class-wprne-admin.php:237
+msgid "Resize Mode"
+msgstr ""
+
+#: admin/class-wprne-admin.php:238
+msgid "Carousel Size"
+msgstr ""
+
+#: admin/class-wprne-admin.php:239
+msgid "Use fixed number or % (ex: 32, 50%)"
+msgstr ""
+
+#: admin/class-wprne-admin.php:240
+msgid "Width"
+msgstr ""
+
+#: admin/class-wprne-admin.php:241
+msgid "Height"
+msgstr ""
+
+#: admin/class-wprne-admin.php:242
+msgid "Post Preview"
+msgstr ""
+
+#: admin/class-wprne-admin.php:243
+msgid "Content Type"
+msgstr ""
+
+#: admin/class-wprne-admin.php:244
+msgid "Static Content"
+msgstr ""
+
+#: admin/class-wprne-admin.php:245
+msgid "Html Content"
+msgstr ""
+
+#: admin/class-wprne-admin.php:246
+msgid "As Web View"
+msgstr ""
+
+#: admin/class-wprne-admin.php:247
+msgid "Character Length"
+msgstr ""
+
+#: admin/class-wprne-admin.php:248
+msgid "Font Style"
+msgstr ""
+
+#: admin/class-wprne-admin.php:249
+msgid "Font Weight"
+msgstr ""
+
+#: admin/class-wprne-admin.php:250
+msgid "Text Align"
+msgstr ""
+
+#: admin/class-wprne-admin.php:251
+msgid "Text Transform"
+msgstr ""
+
+#: admin/class-wprne-admin.php:252
+msgid "Line Height"
+msgstr ""
+
+#: admin/class-wprne-admin.php:253
+msgid "Video ID"
+msgstr ""
+
+#: admin/class-wprne-admin.php:254
+msgid "Insert selected component"
+msgstr ""
+
+#: admin/class-wprne-admin.php:255
+msgid "Container"
+msgstr ""
+
+#: admin/class-wprne-admin.php:256
+msgid "Button"
+msgstr ""
+
+#: admin/class-wprne-admin.php:257
+msgid "Text"
+msgstr ""
+
+#: admin/class-wprne-admin.php:258
+msgid "Image"
+msgstr ""
+
+#: admin/class-wprne-admin.php:259
+msgid "Carousel"
+msgstr ""
+
+#: admin/class-wprne-admin.php:260
+msgid "Grid Post"
+msgstr ""
+
+#: admin/class-wprne-admin.php:261
+msgid "All Components"
+msgstr ""
+
+#: admin/class-wprne-admin.php:262
+msgid "move up"
+msgstr ""
+
+#: admin/class-wprne-admin.php:263
+msgid "move down"
+msgstr ""
+
+#: admin/class-wprne-admin.php:264
+msgid "duplicate"
+msgstr ""
+
+#: admin/class-wprne-admin.php:265
+msgid "delete"
+msgstr ""
+
+#: admin/class-wprne-admin.php:266
+msgid "cut"
+msgstr ""
+
+#: admin/class-wprne-admin.php:267
+msgid "copy"
+msgstr ""
+
+#: admin/class-wprne-admin.php:268
+msgid "paste"
+msgstr ""
+
+#: admin/class-wprne-admin.php:269
+msgid "save template"
+msgstr ""
+
+#: admin/class-wprne-admin.php:270
+msgid "Save Template"
+msgstr ""
+
+#: admin/class-wprne-admin.php:271
+msgid "This component can't be moved up"
+msgstr ""
+
+#: admin/class-wprne-admin.php:272
+msgid "This component can't be moved down"
+msgstr ""
+
+#: admin/class-wprne-admin.php:273
+msgid "This component can't be deleted"
+msgstr ""
+
+#: admin/class-wprne-admin.php:274
+msgid "This component can't be duplicated"
+msgstr ""
+
+#: admin/class-wprne-admin.php:275
+msgid "This component can't be saved"
+msgstr ""
+
+#: admin/class-wprne-admin.php:276
+msgid "This component can't be cut"
+msgstr ""
+
+#: admin/class-wprne-admin.php:277
+msgid "This component can't be copied"
+msgstr ""
+
+#: admin/class-wprne-admin.php:278
+msgid "Component can only be inserted to a container"
+msgstr ""
+
+#: admin/class-wprne-admin.php:279
+msgid "Click on a component in builder mode to edit it's properties"
+msgstr ""
+
+#: admin/class-wprne-admin.php:280
+msgid "You could also select component from layers panel"
+msgstr ""
+
+#: admin/class-wprne-admin.php:281
+msgid "Flex"
+msgstr ""
+
+#: admin/class-wprne-admin.php:282
+msgid ""
+"Flex will define how your items are going to “fill” over the available space "
+"along your main axis. Space will be divided according to each element's flex "
+"property."
+msgstr ""
+
+#: admin/class-wprne-admin.php:283
+msgid "Size"
+msgstr ""
+
+#: admin/class-wprne-admin.php:284
+msgid "Use auto, fixed number or % (ex: 32, 50%)"
+msgstr ""
+
+#: admin/class-wprne-admin.php:285
+msgid "Background Color"
+msgstr ""
+
+#: admin/class-wprne-admin.php:286
+msgid ""
+"Use color name, hex format or rgba format (ex: black, red, #FFF, rgba"
+"(0,0,0,1))"
+msgstr ""
+
+#: admin/class-wprne-admin.php:287
+msgid "Dynamic Background Color"
+msgstr ""
+
+#: admin/class-wprne-admin.php:288
+msgid "Margin"
+msgstr ""
+
+#: admin/class-wprne-admin.php:289
+msgid "Use auto, fixed number or % (ex: 16, 10%)"
+msgstr ""
+
+#: admin/class-wprne-admin.php:290
+msgid "Padding"
+msgstr ""
+
+#: admin/class-wprne-admin.php:291
+msgid "Position"
+msgstr ""
+
+#: admin/class-wprne-admin.php:292
+msgid "Border Radius"
+msgstr ""
+
+#: admin/class-wprne-admin.php:293
+msgid "Border"
+msgstr ""
+
+#: admin/class-wprne-admin.php:294
+msgid "Build APK"
+msgstr ""
+
+#: admin/class-wprne-admin.php:295
+msgid "Build"
+msgstr ""
+
+#: admin/class-wprne-admin.php:296
+msgid "Close"
+msgstr ""
+
+#: admin/class-wprne-admin.php:297
+msgid "Refresh"
+msgstr ""
+
+#: admin/class-wprne-admin.php:298
+msgid "Drag 'n' drop some files here, or click to select files"
+msgstr ""
+
+#: admin/class-wprne-admin.php:299
+msgid "Github token"
+msgstr ""
+
+#: admin/class-wprne-admin.php:300
+msgid "Expo user name"
+msgstr ""
+
+#: admin/class-wprne-admin.php:301
+msgid "Expo password"
+msgstr ""
+
+#: admin/class-wprne-admin.php:303
+msgid "App slug"
+msgstr ""
+
+#: admin/class-wprne-admin.php:304
+msgid "App package"
+msgstr ""
+
+#: admin/class-wprne-admin.php:305
+msgid "App version"
+msgstr ""
+
+#: admin/class-wprne-admin.php:306
+msgid "App version number"
+msgstr ""
+
+#: admin/class-wprne-admin.php:307
+msgid "App icon (png 1024 x 1024)"
+msgstr ""
+
+#: admin/class-wprne-admin.php:308
+msgid "Splash screen image (png)"
+msgstr ""
+
+#: admin/class-wprne-admin.php:309
+msgid "The repository has been created"
+msgstr ""
+
+#: admin/class-wprne-admin.php:310
+msgid "Build process is running"
+msgstr ""
+
+#: admin/class-wprne-admin.php:311
+msgid "Github actions not found"
+msgstr ""
+
+#: admin/class-wprne-admin.php:312
+msgid "There is an error, build process stopped"
+msgstr ""
+
+#: admin/class-wprne-admin.php:313
+msgid "Create the repository on github"
+msgstr ""
+
+#: admin/class-wprne-admin.php:314
+msgid "Minimize"
+msgstr ""
+
+#: admin/class-wprne-admin.php:315
+msgid "Fullscreen"
+msgstr ""
+
+#: admin/class-wprne-admin.php:316
+msgid "Undo"
+msgstr ""
+
+#: admin/class-wprne-admin.php:317
+msgid "Redo"
+msgstr ""
+
+#: admin/class-wprne-admin.php:318
+msgid "Save Settings"
+msgstr ""
+
+#: admin/class-wprne-admin.php:319
+msgid "Woocommerce API Consumer Key"
+msgstr ""
+
+#: admin/class-wprne-admin.php:320
+msgid "Woocommerce API Consumer Secret"
+msgstr ""
+
+#: admin/class-wprne-admin.php:321
+msgid "Settings"
+msgstr ""
+
+#: admin/class-wprne-admin.php:322
+msgid "Are You sure to delete this template?"
+msgstr ""
+
+#: admin/class-wprne-admin.php:323
+msgid "insert template"
+msgstr ""
+
+#: admin/class-wprne-admin.php:324
+msgid "delete template"
+msgstr ""
+
+#: admin/class-wprne-admin.php:325
+msgid "Delete Template"
+msgstr ""
+
+#: admin/class-wprne-admin.php:326
+msgid "Save"
+msgstr ""
+
+#: admin/class-wprne-admin.php:327 admin/class-wprne-admin.php:338
+msgid "Page Name"
+msgstr ""
+
+#: admin/class-wprne-admin.php:328
+msgid "Page Templates"
+msgstr ""
+
+#: admin/class-wprne-admin.php:329
+msgid "Show Header Bar"
+msgstr ""
+
+#: admin/class-wprne-admin.php:330
+msgid "Add to Bottom Tab Navigation"
+msgstr ""
+
+#: admin/class-wprne-admin.php:331
+msgid "Priority"
+msgstr ""
+
+#: admin/class-wprne-admin.php:332
+msgid "Inactive Color"
+msgstr ""
+
+#: admin/class-wprne-admin.php:333
+msgid "add new page"
+msgstr ""
+
+#: admin/class-wprne-admin.php:334
+msgid "Add New Page"
+msgstr ""
+
+#: admin/class-wprne-admin.php:335
+msgid "Delete Page"
+msgstr ""
+
+#: admin/class-wprne-admin.php:336
+msgid "delete page"
+msgstr ""
+
+#: admin/class-wprne-admin.php:337
+msgid "duplicate selected page"
+msgstr ""
+
+#: admin/class-wprne-admin.php:339
+msgid "selected page settings"
+msgstr ""
+
+#: admin/class-wprne-admin.php:340
+msgid "There is no page. Add a new page from the pages panel on the left."
+msgstr ""
+
+#: admin/class-wprne-admin.php:341
+msgid "Something went wrong trying to save pages"
+msgstr ""
+
+#: admin/class-wprne-admin.php:342
+msgid "Pages has been saved"
+msgstr ""
+
+#: admin/class-wprne-admin.php:343
+msgid "Preview Mode"
+msgstr ""
+
+#: admin/class-wprne-admin.php:344
+msgid "Builder Mode"
+msgstr ""
+
+#: admin/class-wprne-admin.php:345
+msgid "Layers"
+msgstr ""
+
+#: admin/class-wprne-admin.php:346
+msgid "Pages"
+msgstr ""
+
+#: admin/class-wprne-admin.php:347
+msgid "Templates"
+msgstr ""
+
+#: admin/class-wprne-admin.php:348
+msgid "Layers panel only available in builder mode"
+msgstr ""
+
+#: admin/class-wprne-admin.php:349
+msgid "Templates panel only available in builder mode"
+msgstr ""
+
+#: admin/class-wprne-admin.php:350
+msgid "Save Pages"
+msgstr ""
+
+#: admin/class-wprne-admin.php:351
+msgid "Saving..."
+msgstr ""
+
+#: admin/class-wprne-admin.php:352
+msgid "move"
+msgstr ""
+
+#: admin/class-wprne-admin.php:353
+msgid "Horizontal"
+msgstr ""
+
+#: admin/class-wprne-admin.php:354
+msgid "Vertical"
+msgstr ""
+
+#: admin/class-wprne-admin.php:355
+msgid "Solid"
+msgstr ""
+
+#: admin/class-wprne-admin.php:356
+msgid "Clear"
+msgstr ""
+
+#: admin/class-wprne-admin.php:357
+msgid "Outline"
+msgstr ""
+
+#: admin/class-wprne-admin.php:358
+msgid "navigate"
+msgstr ""
+
+#: admin/class-wprne-admin.php:359
+msgid "go back"
+msgstr ""
+
+#: admin/class-wprne-admin.php:360
+msgid "add to cart"
+msgstr ""
+
+#: admin/class-wprne-admin.php:361
+msgid "to checkout"
+msgstr ""
+
+#: admin/class-wprne-admin.php:362
+msgid "add cart item quantity"
+msgstr ""
+
+#: admin/class-wprne-admin.php:363
+msgid "reduce cart item quantity"
+msgstr ""
+
+#: admin/class-wprne-admin.php:364
+msgid "Yes"
+msgstr ""
+
+#: admin/class-wprne-admin.php:365
+msgid "No"
+msgstr ""
+
+#: admin/class-wprne-admin.php:366
+msgid "Woocommerce Products"
+msgstr ""
+
+#: admin/class-wprne-admin.php:367
+msgid "Woocommerce Orders"
+msgstr ""
+
+#: admin/class-wprne-admin.php:368
+msgid "Descending"
+msgstr ""
+
+#: admin/class-wprne-admin.php:369
+msgid "Ascending"
+msgstr ""
+
+#: admin/class-wprne-admin.php:370
+msgid "Date"
+msgstr ""
+
+#: admin/class-wprne-admin.php:371
+msgid "Post Id"
+msgstr ""
+
+#: admin/class-wprne-admin.php:372
+msgid "Modified"
+msgstr ""
+
+#: admin/class-wprne-admin.php:373
+msgid "All"
+msgstr ""
+
+#: admin/class-wprne-admin.php:374
+msgid "Select image"
+msgstr ""
+
+#: admin/class-wprne-admin.php:375
+msgid "Change image"
+msgstr ""
+
+#: admin/class-wprne-admin.php:376
+msgid "Post featured image"
+msgstr ""
+
+#: admin/class-wprne-admin.php:377
+msgid "static"
+msgstr ""
+
+#: admin/class-wprne-admin.php:378
+msgid "order number"
+msgstr ""
+
+#: admin/class-wprne-admin.php:379
+msgid "order status"
+msgstr ""
+
+#: admin/class-wprne-admin.php:380
+msgid "order item"
+msgstr ""
+
+#: admin/class-wprne-admin.php:381
+msgid "order total"
+msgstr ""
+
+#: admin/class-wprne-admin.php:382
+msgid "shipping total"
+msgstr ""
+
+#: admin/class-wprne-admin.php:383
+msgid "payment method"
+msgstr ""
+
+#: admin/class-wprne-admin.php:384
+msgid "total tax"
+msgstr ""
+
+#: admin/class-wprne-admin.php:385
+msgid "currency symbol"
+msgstr ""
+
+#: admin/class-wprne-admin.php:386
+msgid "Excerpt"
+msgstr ""
+
+#: admin/class-wprne-admin.php:387
+msgid "Content"
+msgstr ""
+
+#: admin/class-wprne-admin.php:388
+msgid "Single Post"
+msgstr ""
+
+#: admin/class-wprne-admin.php:389
+msgid "Search Post"
+msgstr ""
+
+#: admin/class-wprne-admin.php:390
+msgid "Woocommerce Single Product"
+msgstr ""
+
+#: admin/class-wprne-admin.php:391
+msgid "Product Image Carousel"
+msgstr ""
+
+#: admin/class-wprne-admin.php:392
+msgid "Woocommerce Cart"
+msgstr ""
+
+#: admin/class-wprne-admin.php:393
+msgid "Cart Item"
+msgstr ""
+
+#: admin/class-wprne-admin.php:394
+msgid "Checkout Web View"
+msgstr ""
+
+#: admin/class-wprne-admin.php:395
+msgid "Youtube Player"
+msgstr ""
+
+#: admin/class-wprne-admin.php:396
+msgid "Select Component"
+msgstr ""
+
+#: admin/class-wprne-admin.php:397
+msgid "Relative"
+msgstr ""
+
+#: admin/class-wprne-admin.php:398
+msgid "Absolute"
+msgstr ""
+
+#: admin/class-wprne-admin.php:399
+msgid "Blank"
+msgstr ""
+
+#: admin/class-wprne-admin.php:400
+msgid "Woocommerce Shop"
+msgstr ""
+
+#: admin/class-wprne-admin.php:401
+msgid "Single Product"
+msgstr ""
+
+#: admin/class-wprne-admin.php:402
+msgid "My Order"
+msgstr ""
+
+#: admin/class-wprne-admin.php:403
+msgid "Search Product"
+msgstr ""
+
+#: admin/class-wprne-admin.php:404
+msgid "Something went wrong trying to save template"
+msgstr ""
+
+#: admin/class-wprne-admin.php:405
+msgid "Template has been saved"
+msgstr ""
+
+#: admin/class-wprne-admin.php:406
+msgid "Something went wrong trying to save settings"
+msgstr ""
+
+#: admin/class-wprne-admin.php:407
+msgid "Settings has been saved"
+msgstr ""
+
+#: admin/class-wprne-admin.php:408
+msgid "Tutorials"
+msgstr ""
